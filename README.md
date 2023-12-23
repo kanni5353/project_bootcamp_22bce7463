@@ -1,3 +1,4 @@
 # project_bootcamp_22bce7463
 
 I chose Global Video Game Sales and Reviews data set from Kaggle website(https://www.kaggle.com/datasets/thedevastator/global-video-game-sales-and-reviews?resource=download) for my Bootcamp's project.
+The dataset provides a holistic perspective on video game sales, reviews, and essential attributes. It encompasses global sales rankings ('Rank'), regional nuances, game titles, genres, publisher details, playable platforms, and user reviews. The inclusion of the 'Review' column, featuring numeric critiques on a scale of 1 to 10, holds significance in shaping player engagement. Additionally, the availability of release years facilitates the analysis of sales trends in conjunction with technological advancements. This dataset proves to be a valuable resource for gaining insights into the diverse dynamics of the gaming industry.
